@@ -1,0 +1,15 @@
+tensorflow
+keras
+keras-applications
+keras-preprocessing
+pandas
+pyarrow
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+tqdm
+cmapy
+prettytable
+pyqt5
